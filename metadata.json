@@ -1,0 +1,41 @@
+{
+  "name": "Boner #1116",
+  "symbol": "BNR",
+  "description": "Ukiyo is more than a brand, it’s a lifestyle. A unique collection that brings a never before seen style to Solana",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https%3A%2F%2Farweave.net%2FDt_xg-egI0spxAfWKFaZOEB5Qm-AK1aY4zlUbFxxQKg%3Fext%3Dpng",
+  "attributes": [
+   {
+      "trait_type": "Head",
+      "value": "Golden Frog"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Half a Dime"
+    },
+    {
+      "trait_type": "Skull",
+      "value": "Sunny"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Sideguard"
+    },
+    {
+      "trait_type": "Crucible",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue Gradient"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
